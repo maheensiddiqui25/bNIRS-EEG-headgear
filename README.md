@@ -5,7 +5,7 @@ This repository contains the STL file for a 3D-printable optode coupler.
 
 ## Files
 
-- `optode_coupler.stl` — 3D model for printing.
+- `NIRS_EEG_optode_coupler.stl` — 3D model for printing.
 
 ## 3D Printing
 
